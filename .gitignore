@@ -41,3 +41,11 @@ extras
 profile
 xcuserdata
 contents.xcworkspacedata
+build/
+.DS_Store
+.idea/
+.vs/
+cmake-*/
+ignore/
+minst*.sh
+BUILD_VERSION
